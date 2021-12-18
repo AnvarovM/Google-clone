@@ -3,7 +3,7 @@
 ## How to use
 
 ```bash
-git clone https://github.com/AnvarovM/AnvarovM.git
+git clone https://github.com/AnvarovM/Google-clone.git
 
 cd AnvarovM
 
