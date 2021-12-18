@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/AnvarovM/Google-clone.git
 
-cd AnvarovM
+cd Google-clone
 
 npm install
 # or
